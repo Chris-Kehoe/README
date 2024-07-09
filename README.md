@@ -8,8 +8,8 @@ Azure SIEM
 
 
 # Education and Certifications
-B.A. Criminology & Criminal Justice from University of Northern Colorado
-CompTIA A+
+-B.A. Criminology & Criminal Justice from University of Northern Colorado
+-CompTIA A+
 CompTIA Network+
 CompTIA Security+
 AWS Certified Cloud Practitioner Certification
