@@ -2,7 +2,7 @@
 
 Top 5% on TryHackMe: chris.kehoe
 
-# Project: 
+# Project 
 Azure SIEM
 
 
